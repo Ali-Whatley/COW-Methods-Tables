@@ -2,17 +2,14 @@
 #
 #  TRADE VULNERABILITY & CONFLICT INTENSITY: METHODS TABLES GENERATOR
 #
-#  Description: This script generates publication-ready academic tables for 
-#               analyzing the relationship between trade vulnerability and 
-#               interstate conflict intensity using Correlates of War (COW) data.
+#  Description: Creates summary statistics tables for politically relevant dyads
+#               (1973-2014) examining how economic interdependence affects the
+#               escalation of militarized interstate disputes (MIDs).
 #
 #  Author:      Ali Whatley
 #  Created:     2025
 #  License:     MIT
 #
-#  Purpose:     Creates summary statistics tables for politically relevant dyads
-#               (1973-2014) examining how economic interdependence affects the
-#               escalation of militarized interstate disputes (MIDs).
 #
 #  Data Sources:
 #     - COW Major Powers dataset (majors2024.csv)
