@@ -1,8 +1,5 @@
 # Trade-Conflict-Tables 📊
 
-R script for generating publication-ready academic tables analyzing trade vulnerability and interstate conflict intensity.
-
-## 📌 Overview
 
 This project creates summary statistics tables for a study examining **how economic interdependence affects the escalation of militarized interstate disputes (MIDs)**. It builds on the politically relevant dyads framework (Lemke & Reed, 2001) using Correlates of War (COW) data from 1973–2014.
 
